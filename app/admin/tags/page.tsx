@@ -231,7 +231,7 @@ export default function TagsManagementPage() {
   }
 
   return (
-    <div className="container mx-auto p-6">
+    <div className="dark min-h-screen container mx-auto p-6">
       <div className="mb-6">
         <Link href="/admin">
           <Button variant="outline">
