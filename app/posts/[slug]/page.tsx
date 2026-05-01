@@ -204,9 +204,6 @@ export default function PostPage() {
               <Link href="/" className="text-[#f0f0f0] hover:text-[#a0a0a0] transition-colors">
                 ホーム
               </Link>
-              <Link href="/login" className="text-[#f0f0f0] hover:text-[#a0a0a0] transition-colors">
-                管理
-              </Link>
             </nav>
           </div>
         </div>
